@@ -1,0 +1,21 @@
+{
+  "app_title": "TV S\u00e9n\u00e9gal",
+  "live": "EN DIRECT",
+  "replay": "REDIFFUSION",
+  "offline": "HORS LIGNE",
+  "channels": "Cha\u00eenes",
+  "favorites": "Favoris",
+  "settings": "Param\u00e8tres",
+  "replay_btn": "Replays YouTube",
+  "instructions_title": "Bienvenue sur TV S\u00e9n\u00e9gal",
+  "instruction_dpad": "Utilisez les fl\u00e8ches du pav\u00e9 directionnel (D-Pad) pour naviguer entre les cha\u00eenes.",
+  "instruction_ok": "Appuyez sur la touche OK ou Entr\u00e9e pour s\u00e9lectionner et regarder.",
+  "instruction_back": "Appuyez sur Retour / \u00c9chap pour afficher ou masquer le panneau des cha\u00eenes.",
+  "btn_understood": "J'ai compris, regarder la TV",
+  "settings_privacy_title": "Confidentialit\u00e9 et Stockage Local",
+  "settings_privacy_desc": "Activer la sauvegarde locale du dernier canal regard\u00e9, de la langue et des favoris.",
+  "storage_active": "Stockage activ\u00e9",
+  "storage_disabled": "Stockage d\u00e9sactiv\u00e9",
+  "language_label": "Langue de l'interface :",
+  "close_btn": "Fermer"
+}
