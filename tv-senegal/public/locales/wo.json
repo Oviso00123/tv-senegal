@@ -1,0 +1,21 @@
+{
+  "app_title": "TV Senegaal",
+  "live": "CI TEW",
+  "replay": "D\u00c9LLU G\u00c9STU",
+  "offline": "DUL J\u00c0LL",
+  "channels": "S\u00e9no yi",
+  "favorites": "Yi ma g\u00ebn\u00ebl",
+  "settings": "P\u00e0param\u00e9et\u00ebr",
+  "replay_btn": "Replay YouTube",
+  "instructions_title": "Dalal j\u00e0mm ci TV Senegaal",
+  "instruction_dpad": "K\u00ebll\u00ebk\u00ebl flees yiy won\u00e9 wet yi ngir dox ci t\u00e9l\u00e9son yi.",
+  "instruction_ok": "B\u00ebss\u00ebl OK mbaa Entr\u00e9e ngir s\u00e9en t\u00e9l\u00e9 bi.",
+  "instruction_back": "B\u00ebss\u00ebl Delu (Retour / Echap) ngir t\u00ebj walla ubbil l\u00e9pp.",
+  "btn_understood": "D\u00e9g naako, t\u00e0mbali!",
+  "settings_privacy_title": "Sutura ak Dencum Xibaar",
+  "settings_privacy_desc": "May \u00f1u denc ci sa t\u00e9l\u00e9 bi sa s\u00e9no bu mujj, l\u00e0kk bi ak yi nga g\u00ebn\u00ebl.",
+  "storage_active": "Denc bi dox na",
+  "storage_disabled": "Denc bi doxul",
+  "language_label": "L\u00e0kku s\u00e0kket bi :",
+  "close_btn": "T\u00ebj"
+}
